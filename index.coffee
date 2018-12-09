@@ -13,6 +13,7 @@ DEFAULT_CONFIG =
   siteKey: null
   secretKey: null
   ssl: true
+  timeout: 5000
 
 DEFAULT_REQUEST_OPTIONS =
   uri: GOOGLE_CAPTCHA_ENDPOINT
